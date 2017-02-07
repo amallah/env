@@ -81,7 +81,7 @@ map <F7> :!/bin/sh -c 'clear && grep ^\"\"\" ~/.vimrc \| sed -e s/^...//'<CR>
 """ ###   File Creation / Update Header Helpers   ############################
 """
 """   F2 - insert header listing author and creation date.
-map <F2> o author:  Geoff Franks <geoff.franks@gmail.com><Esc>ocreated: <Esc>:read !date +"\%Y-\%m-\%d"<CR>kJ<Esc>
+map <F2> o author:  Amer Mallah <amallah@demandbridge.com><Esc>ocreated: <Esc>:read !date +"\%Y-\%m-\%d"<CR>kJ<Esc>
 """   F3 - insert a header line listing an update
 map <F3> oupdated: <Esc>:read !date +"\%Y-\%m-\%d"<CR>kJA, gdf: 
 """   F9 - insert [ gdf, <date> ] at cursor
