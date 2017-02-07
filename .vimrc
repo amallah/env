@@ -7,6 +7,7 @@
 " created:   2013-03-04
 " updated:   2013-03-04, gdf: initial vimrc
 " updated:   2013-09-12, gdf: various enhancements for split, yaml, whitespace, etc
+" updated:   2017-02-07, amm: stolen and customized
 "
 
 "################################################################################
